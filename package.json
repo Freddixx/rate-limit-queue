@@ -1,5 +1,5 @@
 {
-  "name": "rate-limit-queue",
+  "name": "rate-limit-q",
   "version": "1.0.0",
   "main": "lib/queue.js",
   "types": "lib/queue.d.ts",
