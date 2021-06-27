@@ -7,12 +7,16 @@
   "author": "Friedrich Politz",
   "license": "MIT",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "jest"
   },
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "jest": "^27.0.5",
+    "ts-jest": "^27.0.3",
     "typescript": "^4.3.4"
   },
-  "files": ["lib/**/*"]
+  "files": [
+    "lib/**/*"
+  ]
 }
