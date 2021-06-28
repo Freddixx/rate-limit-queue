@@ -1,7 +1,7 @@
 [![rate limit queue on MPM](https://img.shields.io/badge/rate--limit--q-1.0.1-green?logo=npm&style=flat)](https://www.npmjs.com/package/rate-limit-q)
 # Rate Limit Queue (rate-limit-q)
 
-This package gives you a rate limit queue which will evenly process items as fast as possible according to a set daily limit.
+This package gives you a rate limit queue which will evenly process items in rotation according to a set daily limit.
 
 The items will be re-appended after every processing step so that the queue will perform an infinite round robin.
 
