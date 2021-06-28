@@ -9,10 +9,12 @@ If you want to use other time frames, just recalculate the limit based on a 24h 
 
 ## Installation
 
-    // npm
-    npm install rate-limit-q
-    // yarn
-    yarn add rate-limit-q
+```Bash
+// npm
+npm install rate-limit-q
+// yarn
+yarn add rate-limit-q
+```
 
 ## Usage
 
